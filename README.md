@@ -1,0 +1,1 @@
+# smart-mirror-with-Google-home-by-Raspberry-pi
